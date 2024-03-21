@@ -1,4 +1,4 @@
-## Ensemble Learning for Iris Flower Classification
+# Ensemble Learning for Iris Flower Classification
 
 ### Overview
 This project explores ensemble learning techniques for classifying iris flowers using the well-known Iris dataset. Ensemble learning involves combining multiple base classifiers to improve predictive performance. The Iris dataset contains measurements of iris flowers' sepal and petal dimensions, along with their corresponding species labels.
